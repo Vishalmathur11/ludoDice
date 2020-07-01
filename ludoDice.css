@@ -1,0 +1,31 @@
+h1{
+    color : #f1c5c5;
+    font-size: 100px;
+    text-align: center;
+}
+
+body {
+    background-color: #092532;
+}
+
+footer {
+    color : white;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+.rollDice{
+    background-color: #092532;
+    border-style: groove;
+    color: #f1c5c5;
+    font-size: 30px;
+    font-weight: bold;
+    height: 40px;
+    letter-spacing: 3px;
+    margin-top: 50px;
+    width: 10%;
+}
